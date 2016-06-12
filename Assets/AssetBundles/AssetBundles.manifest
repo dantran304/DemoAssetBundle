@@ -1,0 +1,9 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: image.image
+      Dependencies: {}
+    Info_1:
+      Name: 3dmodel_sphere.3dmodel
+      Dependencies: {}
